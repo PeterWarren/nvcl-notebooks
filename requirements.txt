@@ -1,0 +1,6 @@
+OWSLib
+nvcl-kit
+xmltodict
+jupyterlab-dash==0.1.0a3
+ipywidgets
+jupyter_contrib_nbextensions
