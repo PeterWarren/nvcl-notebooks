@@ -4,4 +4,5 @@ nvcl-kit
 xmltodict
 jupyterlab-dash==0.1.0a3
 ipywidgets
+jupyterlab-git
 jupyter_contrib_nbextensions
