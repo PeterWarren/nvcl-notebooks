@@ -1,5 +1,5 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install jupyterlab-dash@0.1.0-alpha.3
+jupyter labextension install ipyaggrid
 jupyter lab build
