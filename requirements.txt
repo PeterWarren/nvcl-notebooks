@@ -1,6 +1,6 @@
 OWSLib
 pandas
-nvcl-kit
+git+https://gitlab.com/csiro-geoanalytics/python-shared/nvcl_kit@improvement
 xmltodict
 ipywidgets
 jupyter_contrib_nbextensions
