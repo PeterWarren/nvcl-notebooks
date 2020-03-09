@@ -5,3 +5,4 @@ xmltodict
 ipywidgets
 jupyter_contrib_nbextensions
 ipyaggrid
+matplotlib
